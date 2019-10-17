@@ -1,9 +1,3 @@
----
-layout: page
-title: README
-subtitle: Why you'd want to go on a date with me
----
-
 # Beautiful Jekyll
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/daattali/20)
