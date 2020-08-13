@@ -44,7 +44,7 @@ Equivalent to a Bachelor’s degree of 4 years, verified by World Education Serv
 ## SKILLS
 * Program in various languages/frameworks like: **PL/SQL, Python, Shell script, Spark**
 * Design and architect cloud based solutions using **AWS** and **Snowflake**
-* Provision / integrate infrastructures on AWS (EC2, RDS, ECS, Lambda, DynamoDB, S3, API Gateway, SQS, SNS, SES, ECS, Bean Stalk)
+* Provision / integrate infrastructures on AWS (EC2, RDS, ECS, Lambda, DynamoDB, S3, API Gateway, SQS, SNS, SES, Cloudwatch alarms)
 * Design and Schedule **ETL** jobs in **Dataiku Data Science Studio, Oracle Warehouse Builder**
 * Create dashboards and **visualizations** in AWS QuickSIght
 * Design and develop data driven apps in Oracle Application Express 
