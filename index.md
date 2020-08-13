@@ -49,7 +49,7 @@ Equivalent to a Bachelor’s degree of 4 years, verified by World Education Serv
 * Create dashboards and **visualizations** in AWS QuickSIght
 * Design and develop data driven apps in Oracle Application Express 
 * Code and tune advanced queries in **Oracle SQL, Impala Hive QL and Snowflake SQL**
-* Design and Develop *big data** jobs using industry best practices 
+* Design and Develop **big data** jobs using industry best practices 
 * Design and Execute Software tests in **HP Quality Center ALM**
 * Creating and maintaining containerized applications in **Docker**
 * Collaborate using tools like **Git, Gihub, Jira, Confluence, SVN** etc
