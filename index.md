@@ -2,9 +2,9 @@
 title: Abhisek De
 ---
 # Abhisek De
-Mobile: +1 604 757 9840 / +91 98368 92367<br>
-Zoom: 761 333 7317 <br>
-abhisek.de@protonmail.com <br>
+Canada [+1 604 757 9840](tel:+16047579840) / India [+91 98368 92367](tel:+919836892367)<br>
+Zoom [761 333 7317](https://us04web.zoom.us/j/7613337317?pwd=RWNhOGxZZ2RCdzFPelREcms4Sng3UT09) / 
+Email [abhisek.de@protonmail.com](mailto:abhisek.de@protonmail.com) <br>
 Pune 411044, India
 
 ## PROFESSIONAL SUMMARY
@@ -23,7 +23,7 @@ With 5 years of experience as Data warehouse analyst Abhisek has extensive knowl
     </tr>
     <tr>
         <td>Jan 2015 – Jun 2019</td>
-        <td>JAgile and DevOps Business Intelligence Engineer for a Belgian mobile/internet operator</td>
+        <td>Agile and DevOps Business Intelligence Engineer for a Belgian mobile/internet operator</td>
     </tr>
 </table>
 
